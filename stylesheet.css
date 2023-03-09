@@ -77,7 +77,9 @@ a:hover {
 body,
 td,
 th,
-tr,
+tr{
+   padding: 40px;
+   },
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
